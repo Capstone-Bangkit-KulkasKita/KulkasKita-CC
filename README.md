@@ -54,7 +54,7 @@ This API is designed to be deployed on Google Cloud Run using Docker. The necess
 ### Documentation
 For detailed information on how to use the API endpoints, refer to the <a href="https://documenter.getpostman.com/view/27775731/2s93sdXrf5">**API Documentation**</a> file.
 
-### Tech Stack
+### Tech
   <h4>BackEnd:</h4>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -64,3 +64,8 @@ For detailed information on how to use the API endpoints, refer to the <a href="
 
 <h4>Cloud:</h4>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  
+<h4>Tools:</h4>
+   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  
