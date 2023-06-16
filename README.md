@@ -1,6 +1,6 @@
-# KulkasKita-CC API
+# KulkasKita API
 
-This repository contains the code for the KulkasKita-CC API, which is built using Node.js and Express. The API provides backend functionality for the KulkasKita-CC app, allowing users to perform various operations related to managing a refrigerator.
+This repository contains the code for the KulkasKita API, which is built using Node.js and Express. The API provides backend functionality for the KulkasKita app, allowing users to perform various operations related to managing a refrigerator.
 
 ## Getting Started
 
